@@ -36,20 +36,16 @@ For development with auto-reload:
 
 #### Images
 - Replace placeholder images in `assets/img/` with your own:
-  - `hero.jpg` (1200x600px recommended)
-  - `gallery1.jpg` (800x600px recommended)
-  - `gallery2.jpg` (800x600px recommended)
-  - `gallery3.jpg` (800x600px recommended)
+  - `homeimage.png`
 
 #### Icons
 - Replace SVG icons in `assets/icons/` with your own:
-  - `indusnov-logo.svg`
-  - `predictech.svg`
-  - `drontech.svg`
-  - `aquascope.svg`
-  - `ecoscan.svg`
-  - `skillnov.svg`
-  - `smartflow.svg`
+  - `predictech.png`
+  - `drontech.png`
+  - `aquascope.png`
+  - `ecoscan.png`
+  - `skillnov.png`
+  - `smartflow.png`
 
 ## Technical Details
 
@@ -90,16 +86,13 @@ site/
 │   └── main.js
 └── assets/
     ├── icons/
-    │   ├── indusnov-logo.svg
-    │   ├── predictech.svg
-    │   ├── drontech.svg
-    │   ├── aquascope.svg
-    │   ├── ecoscan.svg
-    │   ├── skillnov.svg
-    │   └── smartflow.svg
+    │  
+    │   ├── predictech.png
+    │   ├── drontech.png
+    │   ├── aquascope.png
+    │   ├── ecoscan.png
+    │   ├── skillnov.png
+    │   └── smartflow.png
     └── img/
-        ├── hero.jpg
-        ├── gallery1.jpg
-        ├── gallery2.jpg
-        └── gallery3.jpg
+        ├── homeimage.png
 ```
